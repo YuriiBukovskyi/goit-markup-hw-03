@@ -121,6 +121,8 @@ a {
 .main-space-container {
   background-color: #2e2f42;
   padding-top: 188px;
+  padding-left: 330px;
+  padding-right: 330px;
   padding-bottom: 188px;
 }
 .maine-cpace-name {
@@ -150,6 +152,8 @@ a {
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   text-align: center;
   cursor: pointer;
+  display: block;
+  min-width: 169px;
 }
 .main-space-btn:hover {
   background: #404bbf;
