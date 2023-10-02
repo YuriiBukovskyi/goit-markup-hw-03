@@ -47,6 +47,8 @@ a {
 .header-container {
   display: flex;
   gap: 332px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .container {
   width: 100%;
@@ -70,8 +72,6 @@ a {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 .header-logo-color {
   color: #2e2f42;
