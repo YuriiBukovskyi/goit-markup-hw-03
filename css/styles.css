@@ -60,6 +60,7 @@ a {
 .header-navigation {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 .header-logo {
   color: #4d5ae5;
