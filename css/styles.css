@@ -43,8 +43,6 @@ a {
 
 .header {
   border-bottom: 1px solid #e7e9fc;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 .header-container {
   display: flex;
@@ -72,6 +70,8 @@ a {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .header-logo-color {
   color: #2e2f42;
