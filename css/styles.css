@@ -150,6 +150,7 @@ a {
   text-align: center;
   cursor: pointer;
   min-width: 169px;
+  margin: 0 auto;
 }
 .main-space-btn:hover {
   background: #404bbf;
